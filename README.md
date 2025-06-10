@@ -1,4 +1,5 @@
 # 🚀 ¡Bienvenido a mi portafolio! 🚀
+[Aquí encontraras el README en ingles](https://github.com/juanvilla05/RIWI-TEST-PORTFOLIO/blob/a5e262f66847cb6f3e146ed69a290eec9970610a/README-English.md)
 ---
 ## 🌟 Este Portafolio Personal fue hecho con HTML y CSS 🌟
 
