@@ -1,3 +1,5 @@
+![httpsliteralni comimagesherramientas20211trimestreCapacitate-1](https://github.com/user-attachments/assets/5737d360-1c40-44e8-919b-914c5ca9b32a)
+
 # 🚀 Welcome to My Portfolio! 🚀
 
 [Here you will find the readme in Spanish.](https://github.com/juanvilla05/RIWI-TEST-PORTFOLIO/blob/013ef65fa7fc9789e8af2a3c82edb8e2d319de54/README.md)
