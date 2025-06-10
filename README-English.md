@@ -1,4 +1,6 @@
 # 🚀 Welcome to My Portfolio! 🚀
+
+[Here you will find the readme in Spanish.](https://github.com/juanvilla05/RIWI-TEST-PORTFOLIO/blob/013ef65fa7fc9789e8af2a3c82edb8e2d319de54/README.md)
 ---
 ## 🌟 This Personal Portfolio Was Built with HTML and CSS 🌟
 
