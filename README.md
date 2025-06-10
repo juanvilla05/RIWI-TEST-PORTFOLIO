@@ -21,13 +21,36 @@ Este proyecto ha sido construido con las herramientas fundamentales del desarrol
 * **Transiciones y Efectos Hover:**¡Los botones y elementos del portafolio reaccionan a tu toque! ✨
 
 
-### Estructura del Proyecto 📂
+### 📂 Estructura del Proyecto
 
-El proyecto está organizado de manera clara y eficiente:
+El proyecto está organizado de manera clara y eficiente:  
 
-*Ejecutado por:*
+**Sitio Web del Portafolio**
+```
+portfolio-website
+├── index.html        # Main entry point of the website
+├── portfolio.html    # Detailed view of the portfolio section
+├── contact.html      # Contact form for visitors
+├── css
+│   └── styles.css    # External styles for the website
+└── README.md         # Documentation for the project
+```
 
-* *Nombre:* Juan Camilo Villa Zapata
-* *Clan:* Gosling
-* *Correo Electrónico:* cfinancieramedellin@gmail.com
-* *Documento de Identidad:* 1.039.697.486
+---
+
+### 💻 Instrucciones
+
+1. Clona el repositorio o descarga los archivos del proyecto.  
+2. Abre `index.html` en un navegador web para ver la página principal.  
+3. Navega a `portfolio.html` para ver las descripciones detalladas de los proyectos.  
+4. Usa la página `contact.html` para enviarme un mensaje.
+
+---
+
+### 🙋‍♂️ Información del Desarrollador
+
+- **Nombre:** Juan Camilo  
+- **Clan:** Gosling  
+- **Correo electrónico:** cfinancieramedellin@gmail.com  
+- **Documento de identidad:** 1.039.697.486
+
