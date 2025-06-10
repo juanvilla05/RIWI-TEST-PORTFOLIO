@@ -23,10 +23,28 @@ This project was built using the core tools of web development: 🎨
 ### Project Structure 📂
 
 The project is organized in a clear and efficient way:
+# Portfolio Website
 
-*Developed by:*
+```
+portfolio-website
+├── index.html        # Main entry point of the website
+├── portfolio.html    # Detailed view of the portfolio section
+├── contact.html      # Contact form for visitors
+├── css
+│   └── styles.css    # External styles for the website
+└── README.md         # Documentation for the project
+```
 
-* *Name:* Juan Camilo Villa Zapata  
-* *Clan:* Gosling  
-* *Email:* cfinancieramedellin@gmail.com  
-* *ID Number:* 1.039.697.486
+## Instructions 💻 
+1. Clone the repository or download the project files.
+2. Open `index.html` in a web browser to view the main page.
+3. Navigate to `portfolio.html` to see detailed project descriptions.
+4. Use the `contact.html` page to send a message.
+
+## Developer Information 🙋‍♂️
+- **Name:** Juan Camilo
+- **Clan:** Gosling
+- **Email:** cfinancieramedellin@gmail.com
+- **Identification Document:** 1.039.697.486
+
+
